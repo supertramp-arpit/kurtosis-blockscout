@@ -1,7 +1,7 @@
 # https://github.com/blockscout/frontend/blob/main/docs/ENVS.md#transaction-interpretation
 # https://docs.blockscout.com/for-developers/information-and-settings/env-variables
 DB_PORT = 5432
-TITLE = "Welcom to INDIBIT explorer"
+TITLE = "Welcome to INDIBIT explorer"
 IMAGE_POSTGRES = "postgres:16.2"
 IMAGE_BACKEND = "blockscout/blockscout-zkevm:6.5.0"
 IMAGE_STATS = "ghcr.io/blockscout/stats:main"
